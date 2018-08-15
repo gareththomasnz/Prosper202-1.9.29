@@ -5,6 +5,6 @@ This is the last free version of [Prosper202](http://prosper.tracking202.com/app
 
 I've made few changes.
 
-⋅⋅* Removed Redirect to auto-upgrade page
-⋅⋅* Removed most of advertising
-⋅⋅* Added links to tutorials
+* Removed Redirect to auto-upgrade page
+* Removed most of advertising
+* Added links to tutorials
