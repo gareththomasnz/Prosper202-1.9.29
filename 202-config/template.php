@@ -88,11 +88,11 @@ case "202-account": ?>
 	<div class="row">
   		<div class="col-xs-3">
   			<!-- this is the prosper202 top-left logo/banner placement -->
-						<script type="text/javascript" charset="utf-8">
+/*						<script type="text/javascript" charset="utf-8">
 			var is_ssl = ("https:" == document.location.protocol);
 			var asset_url = is_ssl ? "https://ads.tracking202.com/prosper202-cs-topleft/" : "<?php echo TRACKING202_ADS_URL; ?>/prosper202-cs-topleft/";
 			document.write(unescape("%3Ciframe%20class%3D%22advertise-top-left%22%20src%3D%22"+asset_url+"%22%20scrolling%3D%22no%22%20frameborder%3D%220%22%3E%3C/iframe%3E"));
-			</script>
+			</script> */
 		</div>
   		<div class="col-xs-9">
 	  		<nav class="navbar navbar-default" role="navigation">
