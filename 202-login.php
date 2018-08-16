@@ -202,7 +202,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 	      </div>
       </form>
      <!-- P202_CS_Login_Page_288x200 -->
-<div id='div-gpt-ad-1398648278789-0' style='width:288px; height:250px;'><center><a href="https://tjosm.com/go/p202.php" target="_blank"><img src="https://tjosm.com/banner/prosper202-login.gif" /></a></center></div>
+<div id='div-gpt-ad-1398648278789-0' style='width:288px; height:250px;'><center><a href="https://vpsfix.com/go/p202.php" target="_blank"><img src="https://vpsfix.com/banner/prosper202-login.gif" /></a></center></div>
 </div>
     </div>
     </div>
