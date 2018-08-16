@@ -137,11 +137,11 @@ case "202-account": ?>
 		&middot; 
 		<a href="../202-account/help.php">Help</a>
 		&middot; 
-		<a href="https://tjosm.com/tracking/prosper202/" target="_blank">Tutorials</a>
+		<a href="https://vpsfix.com/tag/prosper202/" target="_blank">Tutorials</a>
 		&middot; 
 		<a href="https://www.youtube.com/playlist?list=PLW83L64m2zZujbQv7d2dKfK4RUc3-YFvw" target="_blank">How-to Videos</a>
 		&middot; 
-		<a href="https://tjosm.com/" target="_blank">Modified by Tharindu</a>
+		<a href="https://vpsfix.com/" target="_blank">Modified by Tharindu</a>
 		&middot; 
 		
 		<?php if ($_SESSION['update_needed'] == true) { ?>
